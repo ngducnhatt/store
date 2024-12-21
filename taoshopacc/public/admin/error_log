@@ -1,0 +1,4 @@
+[11-Sep-2023 12:44:58 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/h261694430417/public_html/config/function.php on line 379
+[11-Sep-2023 12:44:58 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/h261694430417/public_html/config/function.php on line 379
+[11-Sep-2023 12:44:58 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/h261694430417/public_html/public/admin/Home.php on line 234
+[11-Sep-2023 12:44:58 UTC] PHP Warning:  file_get_contents(http://api.cmsnt.co/version.php?version=SHOPNICK2): Failed to open stream: no suitable wrapper could be found in /home/h261694430417/public_html/public/admin/Home.php on line 234
